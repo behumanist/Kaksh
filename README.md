@@ -21,10 +21,10 @@ This repository contains information about a liquid rocket engine design featuri
 ## Resources
 
 ### Papers
-- [Design and Testing of a Liquid Nitrous Oxide and Ethanol Fueled Rocket Engine]([Click%20Here](https://www.researchgate.net/publication/286916356_Design_and_Testing_of_a_Liquid_Nitrous_Oxide_and_Ethanol_Fueled_Rocket_Engine)): Brief description of Paper 1.
+- [Design and Testing of a Liquid Nitrous Oxide and Ethanol Fueled Rocket Engine](https://www.researchgate.net/publication/286916356_Design_and_Testing_of_a_Liquid_Nitrous_Oxide_and_Ethanol_Fueled_Rocket_Engine): Brief description of Paper 1.
 
 ### YouTube References
-- [Building a Liquid rocket engine! - Callum Long]([Click%20Here](https://www.youtube.com/watch?v=XC1Tc5egH74&t=687s)): Description of the video content.
+- [Building a Liquid rocket engine! - Callum Long](https://www.youtube.com/watch?v=XC1Tc5egH74&t=687s): Description of the video content.
 
 ## Contribution Guidelines
 
